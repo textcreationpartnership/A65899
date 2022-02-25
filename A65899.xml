@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An expostulation with the bishops, so called, in England concerning their jurisdiction over the people of God, called Quakers : with a few wholesom words of exhortation and advice, tending to unite them and us in one true spiritual worship.</title>
+            <author>Whitehead, John, 1630-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65899</idno>
+            <idno type="STC">Wing W1976</idno>
+            <idno type="STC">ESTC R38610</idno>
+            <idno type="EEBO-CITATION">17807253</idno>
+            <idno type="OCLC">ocm 17807253</idno>
+            <idno type="VID">106646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65899)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106646)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1109:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An expostulation with the bishops, so called, in England concerning their jurisdiction over the people of God, called Quakers : with a few wholesom words of exhortation and advice, tending to unite them and us in one true spiritual worship.</title>
+                  <author>Whitehead, John, 1630-1696.</author>
+                  <author>Mason, Martin, fl. 1650-1676.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+                  <note>Caption title.</note>
+                  <note>Signed at end of Postscript: J.W.</note>
+                  <note>Another edition, Wing W1975A, has title: An expostulation with the bishops in England; signatures at end read: John Whitehead. Martin Mason.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Temporal power.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:106646:1"/>
+            <!-- PDF PAGE 127 -->
+            <pb n="1" facs="tcp:106646:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 127 -->
+            <head>AN Expoſtulation WITH THE BISHOPS, ſo called, in <hi>ENGLAND,</hi> Concerning their Jurisdiction over the People of God, called <hi>QUAKERS;</hi> with a few wholeſom Words of Exhortation and Advice, tending to unite <hi>Them</hi> with <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> in one true ſpiritual Worſhip.</head>
+            <opener>
+               <salute>FRiends,</salute>
+            </opener>
+            <p>Conſider that many Years are paſſed, wherein God's Hand hath eminently appeared in divers Overturns, ſince the former Biſhops were taken away, or did ceaſe to exerciſe that Office in their reſpective Dioceſes; whether becauſe they were diſcountenanced by Authority, or for want of their Revenues, or for want of Love &amp; Faith in Chriſt (whom they ſaid, call'd them to watch over, and feed his Lambs) we ſhall not now determine; though we are perſwaded that the Office of a Biſhop or Over-ſeer, that is made ſo by the Holy Ghoſt, is, to watch over the Flock of Chriſt &amp; feed them, as well (if not more chiefly) in the moſt perilous times of Perſecution, as in the Times of greateſt Proſperity
+<note n="*" place="margin">
+                  <hi>Act.</hi> 20.28. Witneſs alſo the Eccleſia<g ref="char:EOLhyphen"/>ſtical <hi>Hiſtory</hi> of the <hi>Church</hi> for the firſt 300. Years.</note> For the Over<g ref="char:EOLhyphen"/>ſeers that were ordained by the Holy Ghoſt in the Primitive times, did watch over their Flocks, when they had neither large Revenues, nor temporal Princes to uphold them, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut were under moſt grie<g ref="char:EOLunhyphen"/>vous Perſecution: But when men in Authority began to diſlike your
+<pb n="2" facs="tcp:106646:2"/>
+               <!-- PDF PAGE 128 -->Way, and the temporal Power and large Revenues which were annex<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to your Offices, were taken away, we know not one of the Biſhops that did ſtand in the Power of God, willingly and of a ready Mind, to watch over his See; but We the poor Flock, were left to wander, or become a Prey to ſuch as God did never ſend, or ordain to be his Miniſters; who whilſt they were countenanced by Authority, endeavoured with Force and Cruelty to rule over us, and did feed themſelves with the Fat, and cloath themſelves with the Fleece, but did not feed us the poor ſcattered Sheep; but with their Covetouſneſs and Cruelty alienated our Minds from them, whilſt in Sincerity we did ſeek the Lord God: And when he ſaw that we were deſolate and forſaken, and none ſought after us, then did he remember the Promiſe that he had made of old, declared by the Mouth of his holy Prophet <hi>Ezekiel,</hi>
+               <note place="margin">Read <hi>Ezek.</hi> 34.</note> and did both ſeek and ſearch us out from wandring upon the Barren Mountains, &amp; from amongſt the Briars and Thorns of the Wilderneſs, which did tear the Wool from off us; and the Lord himſelf did become unto us a Shepherd, and hath gathered us into his Fold, where our Souls find Reſt, and he feedeth us in freſh Paſtures: ſo that we have no cauſe at all to turn aſide from following of him; for we are in Truth the Sheep of his Hands, not at all gathered by your Labours, nor by the Prieſts whom ye have ordained and ſent forth; neither hath any one of your Curates ever healed our Wounds, nor ſtrengthned us when we were weak and diſeaſed: Therefore in Juſtice and Righteouſneſs you can<g ref="char:EOLhyphen"/>not claim any Spiritual Jurisdiction over us, nor at all blame us for ſeparating from you, ſeeing you were firſt ſeparate from us; but if you have the Mind of Chriſt, you will rejoyce that we meet to<g ref="char:EOLhyphen"/>gether in his Name, and obey his Light in our Conſciences, though we follow not you.
+<note place="margin">
+                  <hi>Mark</hi> 9.38.</note>
+            </p>
+            <p>But if you object and ſay, you have Spiritual Jurisdiction over us, and may juſtly blame us for ſeparating from you, becauſe that many of us, when we were Infants, were baptized into your Church, and did enter into Covenant to continue in the ſame, &amp;c.</p>
+            <p>We anſwer, That then we were not at all capable to know or underſtand the Doctrine of your Church, and much leſs of true Faith and Baptiſm, and therefore we could not then enter into any ſuch Covenant as you ſpeak of: But if you ſay, that we did it by our Sureties, who did promiſe and vow in our Names, We anſwer,
+<pb n="3" facs="tcp:106646:2"/>
+               <!-- PDF PAGE 128 -->That to no ſuch l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>king were we then capable of conſenting; there<g ref="char:EOLhyphen"/>fore you muſt wholly look to the Sureties which your Fore Fathers took; and if they cauſed them to promiſe and vow that which they are in no wiſe able to perform, you may do well to take heed of doing the like to others: And now that we are come to Years of Diſcretion, till we can ſee your Church in the Life &amp; Power of God, and your Doctrine in all things according to Godlineſs, we cannot for Conſcience ſake joyn with you.</p>
+            <p>Therefore (Friends) in all your Viſitations, Mind the Apoſtle's Example, who went forth to viſit thoſe to whom they had preached the Goſpel, that did believe,
+<note place="margin">
+                  <hi>Act.</hi> 16.36.</note> and were gathered from the <hi>Jews</hi> Sy<g ref="char:EOLhyphen"/>nagogues, and <hi>Heathens</hi> Temples; and do not ſtretch your ſelves beyond your line, nor ambitiouſly ſeek to be Lords over US, whom ye have not convinced to your Way, nor laboured at all among us; for what have you to do to judge them that are without your Church? Therefore take heed,
+<note place="margin">1 <hi>Cor.</hi> 5.12.</note> leſt the Shepherd and Biſhop of our Souls (who doubtleſs hath Sheep which are not of your Folds) do judge you as bold Intruders,
+<note place="margin">
+                  <hi>John</hi> 10.16.</note> that would Lord over thoſe of his He<g ref="char:EOLhyphen"/>ritage, which he never committed to your Charge. Therefore re<g ref="char:EOLhyphen"/>ceive this Advice from us, who in Humility do reſpect the Offi e of a Biſhop,
+<note place="margin">
+                  <hi>Job</hi> 31.21.</note> and can give double Honour to thoſe Overſeers that rule well, though we can't give flattering Titles, nor reſpect the Perſon of any man; for in ſo doing, our Maker would ſoon take us away.
+<note place="margin">
+                  <hi>Prov.</hi> 28.21.1.</note>
+            </p>
+            <p n="1">
+               <hi>Firſt,</hi> Come ye to the Light wherewith Chriſt hath enlightned your Conſciences, that while you ſeek to take the Motes out of your Brethrens Eyes, you may ſee that there be no Beams in your own, which may ſo blind you, that you cannot diſcern Tares from Wheat,
+<note place="margin">
+                  <hi>Luk.</hi> 22.23, 26, 27.</note> nor a Wolf from a Lamb: Therefore firſt begin the Work of Re<g ref="char:EOLhyphen"/>formation in your own Hearts and Houſholds, till ye be wholly blameleſs, as the Stewards of God, &amp;c. according to the Apoſtles Doctrine, 1 <hi>Tim.</hi> 3. &amp; <hi>Tit.</hi> 2.7, 8, 9. And be not ye called Lords, becauſe Chriſt ſaid to his Diſciples,
+<note place="margin">1 <hi>Pet.</hi> 5.1, 2, 3.</note> 
+               <hi>The Princes of the</hi> Gentiles <hi>ex<g ref="char:EOLhyphen"/>erciſe Lordſhip, and their great Ones exerciſe Authority; but it ſhall not be ſo among you:</hi> So in Obedience to Chriſt, if ye would be e<g ref="char:EOLhyphen"/>ſteemed his Biſhops, be ye good Examples to the Flock, that you and your Miniſters have convinced to your Way, and to all Peo<g ref="char:EOLhyphen"/>ple, that you may have a good report of them that are without, &amp; be not lifted up with Pride, leſt ye fall into Reproach, and the Snare of the Divel.</p>
+            <p n="2">
+               <pb n="4" facs="tcp:106646:3"/>
+               <!-- PDF PAGE 129 -->
+               <hi>Secondly,</hi> That there may not be a Cry of Oppreſſion in the Country, Reform your Officers, Prieſts and Curates, until they be every way Blameleſs, as the Miniſters of Jeſus Chriſt; and ſet them not up meerly becauſe they have natural Parts and human Learning, but try (if you can) whether they be of God, or no; and whether they have received Power from on high by the Gift of his Spirit, and be made apt to teach or no, before you ſend them forth: ſee whether there be a Neceſſity laid upon them to preach the Goſpel; if ſo, then they will do it freely, as well in Time of Per<g ref="char:EOLhyphen"/>ſecution, as in Time of Proſperity: And if you would have your Courts eſteemed as Spiritual, then let not your Officers in them be carnal, earthly Men, but virtuous, impartial, Men fearing God and hating Covetouſneſs:
+<note place="margin">Read <hi>Mat.</hi> 23.</note> And let none of your Prieſts <hi>be ſuch as ſay, but do not; nor be call<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of Men Maſters; nor have the chiefeſt Seats in the Aſſemblies; nor go in long Robes; nor lay heavy Burth<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns upon the Peopl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;
+<note place="margin">
+                     <hi>Iſa.</hi> 56.10, 11.</note> nor devour Widdows Houſes; nor for a Pretence make long Prayers, nor uſe vain Repet<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tions in their Prayers,</hi> as the <hi>Heathens, chief Prieſts</hi> &amp; <hi>Phariſees</hi> did, which Chriſt cryed <hi>Wo</hi> againſt; <hi>nei<g ref="char:EOLhyphen"/>ther let your Prieſts preach for Hire,
+<note place="margin">
+                     <hi>Micha</hi> 3.11, 12. <hi>Jude.</hi>
+                  </note> nor your Curates divine for Mo<g ref="char:EOLhyphen"/>ney,</hi> which thing the Prophet <hi>Micha</hi> cried <hi>Wo</hi> againſt; neither let them be ſuch as <hi>Iſaiah</hi> called <hi>greedy dumb Dogs, which never can have enough, but all look to their own Way, every one for his Gain from his Quarter;</hi> neither let them be ſuch as go in the Way of <hi>Cain,</hi> which will envy and perſecute; nor ſuch as go in the Way of <hi>Bala<g ref="char:EOLhyphen"/>am</hi> for Rewards; nor ſuch as will <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell Words for Money, which have Hearts exerciſed with covetous Practices;
+<note place="margin">2 <hi>Pet.</hi> 2.14, 15. <hi>Act.</hi> 20.29</note> nor ſuch grievous Wolves, as the Apoſtle ſaid, <hi>w ll not ſpare the Flock (but even ſue People for Wages, whom they do no Work for)</hi> neither let be at all Hirelings; for Chriſt ſaid, <hi>ſuch care not for the Sheep;</hi> but let them be ſu h as do every way accord with the Primitive Pattern; and let none of them be <hi>prophane Swearers,
+<note place="margin">
+                     <hi>Joh.</hi> 10.12, 13. <hi>Mat.</hi> 12.34.</note> nor Drunkards, nor Idola<g ref="char:EOLhyphen"/>ters, nor Ad<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lterers, nor Fornicators, nor Gameſters, nor Scoffers, nor ſuch as ſpeak Lyes, and are given to Lightneſs and fooliſh Jeſt ng; for how can they that be evil ſpeak good Things?</hi>
+            </p>
+            <p n="3">
+               <hi>Thirdly,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Reform your People, that one may diſtinguiſh between y<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Chur<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h and the World: ſeparate the pretious from the vile, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithdraw from every Brother that walks diſorderly; and let not your Church be made numerous with Unbelievers, nor ſuch eſtee<g ref="char:EOLhyphen"/>med
+<pb n="5" facs="tcp:106646:3"/>
+               <!-- PDF PAGE 129 -->Members, as do live in Covetouſneſs, Pride, Envy or Malice;
+<note place="margin">
+                  <hi>Jer.</hi> 15.19. <hi>Gal.</hi> 5.19, 20, 21.</note> nor any that is an <hi>Extortioner, or an Oppreſſor of the Poor, Father<g ref="char:EOLhyphen"/>leſs &amp; Widdows; nor any that live in Gluttony, Drunkenneſs, Rioting and Exceſs; nor any that be prophane Swearers, Lyars, Cheaters and Cozeners; nor any which abuſe themſelves with Mankind;
+<note place="margin">
+                     <hi>Epheſ.</hi> 5.3, 4, 5. 1 <hi>Cor.</hi> 6.9, 10. <hi>Chap.</hi> 12.13.</note> nor any that be Murtherers or Man-ſlayers; nor any that be Adulterers or Adultereſſes, becauſe ſuch have no Inheritance in the Kingdom of God, nor of Chriſt.</hi> And you that profeſs to be Biſhops or Over<g ref="char:EOLhyphen"/>ſeers of the Church, <hi>which is his Body;</hi> let not any be admitted Members, <hi>but ſuch as are baptized into it by the Spirit; for if any Man have not the Spirit of Chriſt he is none of his;</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 8, 9.</note> and ſuch will ſcoff like <hi>Iſhmael,</hi> at the Movings of the Spirit in thoſe that are his.</p>
+            <p n="4">
+               <hi>Fourthly,</hi> Reform yo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Worſhip if you can,<milestone type="tcpmilestone" unit="unspecified" n="4"/> till it differ neither in matter, nor manner; in whole, nor in Part, from the Apoſtles and primitive <hi>Chriſtians</hi> Worſhip,
+<note place="margin">
+                  <hi>Mat.</hi> 15.7, 8, 9. <hi>Joh.</hi> 4.23. <hi>Col.</hi> 2.20, 21, 22.</note> and let it not be <hi>mad<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vain with the Doctrines, Commandments, Traditions and invented Ceremonies of Men,</hi> which will all periſh with the uſing; but worſhip God <hi>(who dwelleth not in Temples made with Hands)</hi> wholly in Spirit and in Truth; if you have received the one, and know the other, you will ſee that no other Worſhip, beſides the Worſhip in Spirit, is either decent, orderly, or accepted with God.
+<note place="margin">
+                  <hi>Act.</hi> 7.48.</note>
+            </p>
+            <p>And when you have ſo reformed your ſelves, your Officers, Prieſts and Curates, your People and your Worſhip, till you be both in Word, in Spirit, in Worſhip and Converſation, one with the Primitive <hi>Chriſtians,</hi> that Men may joyn with you, and not touch an unclean thing; then ſee if we cannot have Unity and Fellow<g ref="char:EOLhyphen"/>ſhip with you: But in the mean time let us qui tly feed in our green Paſtures, and follow Chriſt, the Shepherd and Biſhop of our Souls, who leads us to living Fountains of Water; and take heed of cur<g ref="char:EOLhyphen"/>ſing us whom the Lord hath bleſſed, leſt it fall upon your own Heads; for until you have ſound Doctrine, and the Example of a good Converſation, with <hi>Chriſtian</hi> Love and Charity, to draw us to a Conformity, ye may deſpair to drive us by Force and Cruelty; for the more of that ye do exerciſe upon us, the more ſhall we be confirmed; and it will alſo manifeſt your Church, not to be the Lamb's Wife but rather a Daughter of that Mother of Harlots,
+<note place="margin">
+                  <hi>R<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>v.</hi> 17.5, 6.</note> that hath drunk the Blood of the Saints and Martyrs of Jeſus.</p>
+            <p>Therefore conſider of theſe things, and think not to ſettle your
+<pb n="6" facs="tcp:106646:4"/>
+               <!-- PDF PAGE 130 -->ſelves with Threatnings, Excommunications, Priſons, and the like; for by ſuch Things ye cannot convince Gainſayers, that your Way is right; nor at all ſhake them that be in the Truth, though ye may fright Hypocrites, and make them come bending under you for a Seaſon, till they can get over you: Therefore it will be your Wiſ<g ref="char:EOLhyphen"/>dom to ſhew your Zeal in caſting out the Filth from amongſt your ſelves, and ſuch as profeſs y<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r Way, and by a virtuous Life and wholſom Doctrine, ſeek to win ſuch as differ from you; For things are not now as they were thirty Years ago in this Nation; for Light is broken forth as the Morning, and your Steps will he marked; Therefore wait that God may direct you the right Way, <hi>To do unto all Men, as ye would they ſhould do unto you.</hi>
+            </p>
+            <closer>
+               <signed>Having ſpoken the Truth in Love, We reſt your Friends, deſiring that in Love ye may receive and read theſe Lines; and do not ſlight that which concerns your Peace in them, becauſe they are ſent from us that be in Scorn called Q<g ref="char:V">Ʋ</g>AKERS.</signed>
+               <dateline>
+                  <date>The 5th of the 7th Month, 1662.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="7" facs="tcp:106646:4"/>
+            <!-- PDF PAGE 130 -->
+            <head>A Poſtſcript</head>
+            <head type="sub">Concerning the Proceedings of thoſe called <hi>Biſhops,</hi> againſt us.</head>
+            <p>NOt withſtanding the Reaſons before given againſt your Jurisdi<g ref="char:EOLhyphen"/>ction over us, which might come to the Hands of ſome of you near twelve Years ago, and remain unanſwered unto this Day; ye have both againſt Reaſon and Truth proceed d againſt us in you Courts, and cenſured us, over whom ye have no Power, a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d excommunicated us, who never were of your Church, and perſecuted ſome of the Lord's People unto Impriſonment, and k<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt them in Priſon by your Writs of Excommunication till Death, becauſe for Conſcience ſake they could not conform to your Way; ſo that to all the former Evils, of which ye were faithfully warned, and adviſed to reform, y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have add<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d this alſo of Impriſoning the Lord's Servants, or cauſing them to be impri<g ref="char:EOLhyphen"/>ſoned till Death, that in your Skirts alſo may be found the Blood of the Saints and Servants of Chriſt Jeſus: Therefore repent, and ceaſe to ſmite and perſecute thoſe wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch are the faithful Servants of Chriſt, whom you profeſs to be your Lord; and do not, like the evil and ſloth<g ref="char:EOLhyphen"/>ful Servant, ſay in your Hearts, He delayes his Coming, leſt in an Hour when ye are not aware, he give you your Portion with <g ref="char:V">Ʋ</g>nbelie<g ref="char:EOLhyphen"/>vers and Hypocrites in utter Darkneſs, where ſhall be weeping, wai<g ref="char:EOLhyphen"/>ling and gnaſhing of Teeth.</p>
+            <closer>
+               <signed>J. W.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
